@@ -61,7 +61,7 @@ To run this project locally, follow these steps:
 ## 🌐 Live Demo
 
 You can try the live version of this app here:  
-[Heart Disease Prediction Web App]((https://huggingface.co/spaces/Sukruthk/Heart_Disease_Prediction))
+[Heart Disease Prediction Web App](https://huggingface.co/spaces/Sukruthk/Heart_Disease_Prediction)
 
 ## 💡 Future Improvements
 
